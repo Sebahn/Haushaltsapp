@@ -1,0 +1,24 @@
+[
+    {"tag":1,"betrag":-675,"beschreibung":"Miete","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":1,"betrag":-151.50,"beschreibung":"Kreditrate","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":1,"betrag":-400,"beschreibung":"Consors","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":1,"betrag":-18.90,"beschreibung":"DA","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":1,"betrag":-15,"beschreibung":"Joyce","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":2,"betrag":-160.84,"beschreibung":"Chevrolet","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":3,"betrag":-14.90,"beschreibung":"GYM 10","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":4,"betrag":-39.75,"beschreibung":"Internet Vater","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":4,"betrag":-34.99,"beschreibung":"Internet","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":4,"betrag":-14.82,"beschreibung":"Allianz","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":4,"betrag":-8.99,"beschreibung":"Amazon Prime","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":9,"betrag":-22.99,"beschreibung":"Chat Gpt","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":10,"betrag":-64,"beschreibung":"Strom","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":12,"betrag":-58,"beschreibung":"Mama Fahrkarte","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":25,"betrag":-13.99,"beschreibung":"Netflix","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":25,"betrag":-2.99,"beschreibung":"Apple","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":28,"betrag":-14.99,"beschreibung":"Lebara","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":28,"betrag":-10.99,"beschreibung":"Spotify","monat":[1,2,3,4,5,6,7,8,9,10,11,12]},
+    {"tag":31,"betrag":-13.99,"beschreibung":"Vater Edarling","monat":[1,2,3,4,5,6,7,8,9,10,11,12]}
+ ]   
+    
+    
+    
